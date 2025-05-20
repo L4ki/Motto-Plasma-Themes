@@ -1,7 +1,7 @@
 # Motto-Plasma-Themes
 Motto Themes For Plasma Desktop 
 
-Download: https://store.kde.org/p/2234808
+Download: 
 ------------------------------------------
 
 

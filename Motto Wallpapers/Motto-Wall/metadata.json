@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Id": "Motto-Wall",
+        "License": "CC-BY-SA-4.0",
+        "Version": "1.0",
+        "Name": "Motto-Wall",
+         "Name[x-test]": "xxMotto-Wallxx"
+    }
+}

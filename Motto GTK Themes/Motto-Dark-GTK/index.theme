@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Motto-Dark-GTK
+Comment=Modified Adwaita Dark GTK Theme
+Version=v1.0
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Motto-Dark-GTK
+MetacityTheme=Motto-Dark-GTK
+IconTheme=Adwaita
+CursorTheme=DMZ-White
+ButtonLayout=:minimize,maximize,close
+

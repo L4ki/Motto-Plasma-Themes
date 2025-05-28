@@ -1,3 +1,6 @@
+[BlurBehindEffect]
+enabled=true
+
 [ContrastEffect]
 enabled=false
 contrast=0.4

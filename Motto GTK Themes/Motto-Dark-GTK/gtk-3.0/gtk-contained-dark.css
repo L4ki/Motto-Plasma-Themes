@@ -1747,7 +1747,7 @@ infobar.info *:link, infobar.question *:link, infobar.warning *:link, infobar.er
 /************ Tooltips * */
 tooltip { padding: 4px; /* not working */ border-radius: 5px; box-shadow: none; text-shadow: 0 1px black; }
 
-tooltip.background { background-color: rgba(51, 58, 71 1.0); background-clip: padding-box; border: 1px solid rgba(80, 90, 111, 0.8); }
+tooltip.background { background-color: rgba(51, 58, 71, 1.0); background-clip: padding-box; border: 1px solid rgba(80, 90, 111, 0.8); }
 
 tooltip decoration { background-color: transparent; }
 

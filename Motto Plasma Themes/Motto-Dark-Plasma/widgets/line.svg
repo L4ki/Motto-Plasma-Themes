@@ -4,7 +4,7 @@
    height="16.000004"
    id="svg"
    sodipodi:version="0.32"
-   inkscape:version="1.4 (unknown)"
+   inkscape:version="1.4.1 (unknown)"
    version="1.0"
    sodipodi:docname="line.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -19,7 +19,7 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="l4k1"
-     pagecolor="#02334b"
+     pagecolor="#2b303b"
      bordercolor="#000000"
      borderopacity="1"
      gridtolerance="10000"
@@ -28,15 +28,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="23.560256"
-     inkscape:cx="11.693421"
-     inkscape:cy="9.8683138"
+     inkscape:cx="11.77831"
+     inkscape:cy="9.8470916"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
@@ -50,7 +50,7 @@
      inkscape:document-rotation="0"
      showguides="false"
      inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#02334b">
+     inkscape:deskcolor="#2b303b">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -155,7 +155,7 @@
          inkscape:connector-curvature="0"
          id="path3787"
          d="m 75.690972,57.528997 h -40 v -0.124998 h 40 z"
-         style="opacity:1;fill:#555f77;fill-opacity:1;stroke-width:0.577346"
+         style="opacity:1;fill:#7a85a0;fill-opacity:1;stroke-width:0.577346"
          inkscape:label="#path2992" />
     </g>
   </g>

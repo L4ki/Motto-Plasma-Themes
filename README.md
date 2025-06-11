@@ -32,16 +32,16 @@ Screenshot:
 
 ![logo-5](https://github.com/user-attachments/assets/7d3f266c-80f2-4b61-9051-9666958ad049)
 
-Changelog: 04.06.2025.
+Changelog: 11.06.2025.
 ------------------------
 
 Plasma Theme
 -------------
 
-Update widget: menubaritem.svg
+Update: metadata.desktop
 
 GTK Theme
 ----------
 
-Update: gtkrc
+Update: assets
 

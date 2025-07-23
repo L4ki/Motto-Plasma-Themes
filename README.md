@@ -39,8 +39,9 @@ Plasma Theme
 -------------
 
 Update: metadata.json
+
 GTK Theme
 ----------
 
-Update: gtk-contained-dar
+Update: gtk-contained-dark
 

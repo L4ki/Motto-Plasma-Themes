@@ -32,15 +32,15 @@ Screenshot:
 
 ![logo-5](https://github.com/user-attachments/assets/7d3f266c-80f2-4b61-9051-9666958ad049)
 
-Changelog: 06.08.2025.
+Changelog: 13.08.2025.
 ------------------------
 
 Plasma Theme
 -------------
 
-Update: metadata.desktop
+Update: metadata.json
 
 GTK Theme
 ----------
 
-Update: gtk-4.0
+Update: main.rc

@@ -12,12 +12,12 @@
             "Plasma/Theme"
         ],
         "EnabledByDefault": true,
-        "Name": "Motto-Dark-Plasma",
-        "Description": "Motto-Dark-Plasma",
-        "Id": "Motto-Dark-Plasma",
-        "Version": "3.0",
+        "Name": "Zoran-Plasma",
+        "Description": "Zoran-Dark-Plasma",
+        "Id": "Zoran-Plasma",
+        "Version": "2.6",
         "License": "GPL-3.0+",
-        "Website": "https://github.com/Motto-Dark-Plasma-Themes"
+        "Website": "https://github.com/Zoran-Plasma-Themes"
     },
     "X-Plasma-API": "5.0"
 }

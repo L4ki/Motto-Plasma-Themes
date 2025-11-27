@@ -2021,7 +2021,6 @@ these are pretty self explicative */
 these colors are exported for the window manager and shouldn't be used in applications,
 read if you used those and something break with a version upgrade you're on your own... */
 
-
 @define-color wm_title shade(#d8dee9, 1.8);
 @define-color wm_unfocused_title #8e95a4;
 @define-color wm_highlight rgba(0, 0, 0, 0);
@@ -2035,6 +2034,7 @@ read if you used those and something break with a version upgrade you're on your
 @define-color wm_button_active_color_a shade(#262a32, 0.85);
 @define-color wm_button_active_color_b shade(#262a32, 0.89);
 @define-color wm_button_active_color_c shade(#262a32, 0.9);
+
 /* content view background such as thumbnails view in Photos or Boxes */
 @define-color content_view_bg #1e2228;
 /* Very contrasty background for text views (@theme_text_color foreground) */
